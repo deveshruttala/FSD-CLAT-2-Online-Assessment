@@ -1,0 +1,13 @@
+.add-member-container {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .form-card {
+    width: 100%;
+    max-width: 600px;
+    padding: 30px;
+    border-radius: 15px;
+  }
+  

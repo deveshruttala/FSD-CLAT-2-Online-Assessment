@@ -1,0 +1,32 @@
+.home-container {
+  background-color: #180b1e; /* Dark blue background */
+  color: white;
+  min-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 20px;
+}
+
+.app-title {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #ff6b6b;
+  margin-bottom: 10px;
+}
+
+.app-subtitle {
+  font-size: 1.2rem;
+  color: #a27d78;
+  margin-bottom: 40px;
+}
+
+.manage-card {
+  background-color: #ffffff;
+  color: #000;
+  border-radius: 15px;
+  padding: 30px 20px;
+  width: 100%;
+  max-width: 400px;
+}
